@@ -1,0 +1,13 @@
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+}
+
+.custom-nav-item:hover{
+    background-color:#dc3545;
+    border: solid #dc3545 1px;
+    border-radius: 10px;
+    
+}
+
+
