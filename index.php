@@ -17,7 +17,7 @@
 </head>
 <body>
      <!-- Start Navigation -->
- <nav class="navbar navbar-expand-sm navbar-dark bg-dark  ">
+ <nav class="navbar navbar-expand-sm navbar-primery bg-primery ">
    <div class="container-fluid">
     <a class="navbar-brand" href="index.php">iSchool</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
